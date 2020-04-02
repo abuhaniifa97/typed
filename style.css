@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Inconsolata:400);
+
+html {
+  height: 100%;
+  display: grid;
+	place-items: center;
+}
+
+body {
+  font-family: 'Inconsolata', sans-serif;
+  background-color: white;
+  overflow: hidden;
+}
+
+.tv {
+  text-shadow: 0px 0px 10px white;
+  display: grid;
+	place-items: center;
+  padding: 1em;
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0 0 5px 3px black;
+  color: black;
+  width: 1opx;
+  height: 50px;
+}
+
